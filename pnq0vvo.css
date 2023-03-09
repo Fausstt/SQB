@@ -1,0 +1,36 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * sofia-pro:
+ *   - http://typekit.com/eulas/00000000000000003b9b46ef
+ *   - http://typekit.com/eulas/00000000000000003b9b46ed
+ *   - http://typekit.com/eulas/00000000000000003b9b46f1
+ *
+ * © 2009-2022 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2020-11-25 13:25:08 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"sofia-pro";
+src:url("af/227c77/00000000000000003b9b46ef/27/l") format("woff2"),url("af/227c77/00000000000000003b9b46ef/27/d") format("woff"),url("af/227c77/00000000000000003b9b46ef/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"sofia-pro";
+src:url("af/4cc789/00000000000000003b9b46ed/27/l") format("woff2"),url("af/4cc789/00000000000000003b9b46ed/27/d") format("woff"),url("af/4cc789/00000000000000003b9b46ed/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"sofia-pro";
+src:url("af/4526e4/00000000000000003b9b46f1/27/l") format("woff2"),url("af/4526e4/00000000000000003b9b46f1/27/d") format("woff"),url("af/4526e4/00000000000000003b9b46f1/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+.tk-sofia-pro { font-family: "sofia-pro",sans-serif; }
